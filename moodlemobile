@@ -1,0 +1,50 @@
+body {
+  color: #595959;
+  background: #f98012;
+}
+a {
+  color: #0070a8;
+}
+h1 {
+  color: #f98012;
+}
+h2 {
+  color: #4f4f4f;
+}
+.nav .nav-item a {
+  color: #595959;
+}
+#manage-accounts .account-details {
+  color: #595959;
+}
+.header-wrapper {
+  box-shadow: 10px 0 20px rgba(0, 0, 0, 0.75);
+}
+.bar-header{
+  background-color: #135B7D;
+}
+ion-side-menu li .item{
+  background-color:#313848;
+  border-color: #4F5865;
+  color: #BCC3CF;
+}
+ion-side-menu li.item{
+  border-color: #4F5865;
+}
+ion-side-menu li.item.item.divider{
+  background-color:#3E4755; 
+} 
+.header-main {
+  color: #ffffff;
+  background: #1b1b1b;
+  border-bottom: 5px solid #f98012;
+}
+.user-menu {
+  background: #f98012;
+}
+.grades .section-name {
+  color: #4f4f4f;
+}
+.user-menu .nav-item > a {
+  color: #fff;
+}
